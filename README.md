@@ -3,6 +3,7 @@
 ### A passionate Frontend Developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/eliiikhodayiii-png&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/eliiikhodayiii-png" /> </p>
+![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 - 🔭 I'm currently working on **Responsive web designs and UI/UX improvements and javascript**
 
