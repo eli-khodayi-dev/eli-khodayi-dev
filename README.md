@@ -1,26 +1,36 @@
 ## Hi there 👋
-# Hi 👋, I'm [نام شما]
-### A passionate frontend developer from [کشور/شهر شما]
+I'm eli
+# Hi 👋, I'm eli khodayi
 
-<!-- برای نمایش تعداد بازدیدها (Profile Views) -->
-![Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+### A passionate Frontend Developer
 
-- 🔭 I’m currently working on **Html, css, tailwind...**
-- 📂 All of my projects are available at [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- 💬 Ask me about **Html, css, js**
-- 📫 How to reach me **your-email@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=https://github.com/eliiikhodayiii-png&label=Profile views&color=0e75b6&style=flat" alt="https://github.com/eliiikhodayiii-png" /> </p>
 
-## Connect with me:
-<a href="لینک اینستاگرام شما"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=https://github.com/eliiikhodayiii-png" alt="https://github.com/eliiikhodayiii-png" /></a> </p>
 
-## Languages and Tools:
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+- 🔭 I'm currently working on **Responsive web designs and UI/UX improvements and javascript**
+
+- 👯 I'm looking to collaborate on **frontend projects**
+
+- 💬 Ask me about **HTML, CSS and JavaScript**
+
+- 📫 How to reach me **eliiikhodayiii@gmail.com**
+
+- ⚡ Fun fact **The world of coding becomes more beautiful with Frontend.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/https://github.com/eliiikhodayiii-png" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="https://github.com/eliiikhodayiii-png" height="30" width="40" /></a>
+<a href="https://instagram.com/eli.sitii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eli.sitii" height="30" width="40" /></a>
 </p>
 
-## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/eliiikhodayiii-png&show_icons=true&locale=en&layout=compact" alt="https://github.com/eliiikhodayiii-png" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/eliiikhodayiii-png&show_icons=true&locale=en" alt="https://github.com/eliiikhodayiii-png" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/eliiikhodayiii-png&" alt="https://github.com/eliiikhodayiii-png" /></p>
+
+
