@@ -1,5 +1,3 @@
-## Hi there 👋
-I'm eli
 # Hi 👋, I'm eli khodayi
 
 ### A passionate Frontend Developer
@@ -28,9 +26,5 @@ I'm eli
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=https://github.com/eliiikhodayiii-png&show_icons=true&locale=en&layout=compact" alt="https://github.com/eliiikhodayiii-png" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=https://github.com/eliiikhodayiii-png&show_icons=true&locale=en" alt="https://github.com/eliiikhodayiii-png" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/eliiikhodayiii-png&" alt="https://github.com/eliiikhodayiii-png" /></p>
 
 
