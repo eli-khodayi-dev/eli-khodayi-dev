@@ -6,7 +6,6 @@
 
 <p align="left"> 
   <a href="https://github.com/eli-khodayi-dev">
-    <img src="https://github-profile-trophy.vercel.app/?username=eli-khodayi-dev" alt="eli-khodayi-dev" />
   </a> 
 </p>
 
